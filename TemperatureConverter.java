@@ -1,4 +1,4 @@
-// Program to convert celsius to fahrenheit
+// Q6. Program to convert celsius to fahrenheit.
 public class TemperatureConverter
 {
     public static void main(String args[])
