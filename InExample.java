@@ -1,3 +1,4 @@
+// Q8. Programm to take user input in Java.
 import java.util.Scanner;
 
 public class InExample
