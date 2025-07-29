@@ -1,4 +1,4 @@
-// Write a program to calculate the simple interest
+// Q2. Write a program to calculate the simple interest
 public class SimpleInterest
 {
     public static void main(String args[])
