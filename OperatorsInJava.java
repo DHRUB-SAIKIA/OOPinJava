@@ -1,3 +1,4 @@
+// Q7. Programm to demonstrate the operators in Java.
 public class OperatorsInJava
 {
     public static void main(String args[])
