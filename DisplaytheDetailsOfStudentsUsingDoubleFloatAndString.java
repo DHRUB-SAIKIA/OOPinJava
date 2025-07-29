@@ -1,4 +1,4 @@
-//Write a java program to take input from user as student like
+// Q10. Write a java program to take input from user as student like
 //Student Name as String
 //Student Roll as integer
 //Student Aadhaar Number as double
